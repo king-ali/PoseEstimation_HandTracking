@@ -1,4 +1,6 @@
-# BasicAI_by_Japan_Centre
+# BasicAI
+
+This repository have some of projects done during Basic AI course by Pak-Japan Centre
 
 ### Pose estimation
 
