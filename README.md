@@ -2,4 +2,4 @@
 
 ### Pose estimation
 
-![](./Pose_estimation/pose_est.mp4)
+![](./Pose_estimation/pose_est.gif)
