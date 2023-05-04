@@ -1,4 +1,4 @@
-# BasicAI
+# Pose Estimation and Hand Tracking project
 
 This repository have some of projects done during Basic AI course by Pak-Japan Centre
 
